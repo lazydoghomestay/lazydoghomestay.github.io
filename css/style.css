@@ -1102,3 +1102,7 @@
 			display: inline-block;
 			width: 5em;
 		}
+/* added for reviews*/
+.review {
+	 text-shadow: 2px 2px #444778;
+}
